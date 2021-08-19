@@ -1,5 +1,5 @@
 FROM alpine:latest
-LABEL maintainer="Fatih Boy <fatih@entterprisecoding.com>"
+LABEL maintainer="Fatih Boy <fatih@enterprisecoding.com>"
 
 # https://aur.archlinux.org/packages/kubectl-bin/
 ENV KUBE_LATEST_VERSION="v1.19.3"
